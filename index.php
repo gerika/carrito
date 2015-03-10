@@ -1,4 +1,4 @@
-
+<?php echo 'mi cambio';?>
 <<html>
     <head>
         <title>Carrito de Compras</title>
