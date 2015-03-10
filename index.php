@@ -10,7 +10,7 @@
                             <img src="./imagenes/carritodecompras.jpg">
             </a>
             <h2>Listado de Productos</h2>
-            <h3>hola</h3>
+            <h3>hola q tal</h3>
        </center>
         <?php
         include('conexion.php');
